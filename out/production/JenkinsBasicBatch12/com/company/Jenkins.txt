@@ -1,0 +1,14 @@
+
+
+================================Jenkins====================================
+1. Continuous Development and continuous integration tools help us to omit the delays in rhe pipeline to deliver the project efficiently .
+
+Jenkins is an automation server that helps you with build ,develop ,test and deployment providing you with continuous integration and development
+
+== Why dont we host on our personal laptops
+
+
+
+
+
+1. the recourses
